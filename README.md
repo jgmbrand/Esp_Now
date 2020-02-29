@@ -4,8 +4,8 @@ Have been playing around with some Espressif ESP8266's and Esp-Now.
 Created some very basic examples.  
 No need for knowledge of mac-addresses. 
 
-#EspNowSendRecv.ino    : Send-Master.  
-#EspNowEchoServer.ino  : Echo-Slave.  
+**EspNowSendRecv.ino    : Send-Master.**    
+**EspNowEchoServer.ino  : Echo-Slave.**  
 
 Send-Master : broadcasts (MAC:0xFFFFFFFFFFFF) some simple data.  
 Echo-Slave  : receives the data and prints it.  
