@@ -5,7 +5,7 @@ Created some very basic examples.
 No need for knowledge of mac-addresses. 
 
 EspNowSendRecv.ino    : Send-Master.  
-EspNowEchoServer.ino  : Echo-Slave.
+EspNowEchoServer.ino  : Echo-Slave.  
 Send-Master : broadcasts (MAC:0xFFFFFFFFFFFF) some simple data.  
 Echo-Slave  : receives this data and prints it.  
 Echo-Slave  : sends the data back to the Send-Master.  
