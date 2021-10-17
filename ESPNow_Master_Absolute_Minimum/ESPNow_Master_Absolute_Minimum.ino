@@ -1,3 +1,5 @@
+//Periodically sends some bytes to an espnow slave with mac 22:22:22:22:22:22
+//but sleeps most of the time
 /* Espressif SDK is written in C, not C++ */
 extern "C" {
   #include <espnow.h>
